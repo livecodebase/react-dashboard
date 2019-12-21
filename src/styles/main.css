@@ -1,0 +1,64 @@
+.activelink div {
+  background-color: #edf2f7;
+}
+#collapse-menu {
+  width: 240px;
+}
+.bg-light-gray {
+  background-color: #f8f8f8;
+}
+.text-dark-blue {
+  color: #040e45;
+}
+.text-light-blue {
+  color: #bec5d2;
+}
+a {
+  text-decoration: none;
+  color: #000;
+}
+.mainCont {
+  margin-left: 240px;
+  margin-top: 77px;
+}
+.noMargin {
+  margin-left: 0px !important;
+}
+.w-drawer {
+  width: 240px;
+}
+.transform-x-0 {
+  transform: translateX(0%);
+}
+
+.transform-x-100 {
+  transform: translateX(-100%);
+}
+.z-1 {
+  z-index: -1;
+}
+.min-nav span {
+  display: none;
+}
+
+.min-nav {
+  padding: 20px;
+}
+.main-min-cnt {
+  margin-left: 70px;
+}
+.w-drawer-min {
+  width: 70px;
+}
+.min-nav-w {
+  width: 70px !important;
+}
+.rotate-180 {
+  transform: rotate(180deg);
+}
+.transition-small {
+  transition: 0.3s ease-in-out;
+}
+.noAnimation {
+  transition: none;
+}
