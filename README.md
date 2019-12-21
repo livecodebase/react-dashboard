@@ -1,4 +1,4 @@
-Live demo https://react-dashboard-two-green.now.sh/
+Live demo https://react-dashboard-mbkam8vcx.now.sh/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
