@@ -1,45 +1,27 @@
 import React, { Component } from "react";
 import { NavLink } from "react-router-dom";
 
-import DiscoverIcon from "../../../static/icons/explore.svg";
 import Collections from "../../../static/icons/collections.svg";
-import Artists from "../../../static/icons/artists.svg";
-import Albums from "../../../static/icons/albums.svg";
-import History from "../../../static/icons/history.svg";
 import ArrowLeft from "../../../static/icons/arrow-left.svg";
+import Users from "../../../static/icons/users.svg";
 
 export default class navitems extends Component {
   state = {
     navItems: [
       {
-        name: "Discover",
-        icon: DiscoverIcon,
+        name: "Home",
+        icon: Collections,
         url: "/"
       },
       {
-        name: "Collections",
-        icon: Collections,
-        url: "/collections"
+        name: "Users",
+        icon: Users,
+        url: "/users"
       },
       {
-        name: "Artists",
-        icon: Artists,
-        url: "/artists"
-      },
-      {
-        name: "Albums",
-        icon: Albums,
-        url: "/albums"
-      },
-      {
-        name: "History",
-        icon: History,
-        url: "/history"
-      },
-      {
-        name: "Login",
-        icon: History,
-        url: "/login"
+        name: "Status",
+        icon: Users,
+        url: "/about"
       }
     ]
   };
