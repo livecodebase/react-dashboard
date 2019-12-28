@@ -1,4 +1,4 @@
-Live demo https://react-dashboard-mbkam8vcx.now.sh/
+Live demo https://salty-shelf-36231.herokuapp.com
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
